@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name 12to24-rescue)(type Legacy)(uri ${KIPRJMOD}/12to24-rescue.lib)(options "")(descr ""))
+)
